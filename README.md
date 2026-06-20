@@ -1,6 +1,6 @@
 
 
-<# Adam Powell
+# Adam Powell
 
 IT Support | Endpoint Management | Cybersecurity
 
