@@ -4,7 +4,7 @@
 
 IT Support | Endpoint Management | Cybersecurity
 
-Technical Support Leader transitioning into IT Support, Endpoint Management, and Cybersecurity. Experienced in macOS troubleshooting, technical leadership, customer support, and security operations fundamentals.
+Technical Support Leader working IT Support, Endpoint Management, and Cybersecurity. Experienced in macOS troubleshooting, technical leadership, customer support, and security operations fundamentals.
 
 I bring hands-on Apple troubleshooting experience, customer-facing technical leadership, Security+ certification, and growing experience with endpoint tools, documentation, and security operations fundamentals.
 
