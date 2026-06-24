@@ -29,9 +29,7 @@ I bring hands-on Apple troubleshooting experience, customer-facing technical lea
 - Jamf Certified Associate – Jamf Pro (Jamf 100)
 
 ## Featured Projects
-- macos-support-runbook
-- security-plus-notes
-- endpoint-security-labs
+
 
 ## Background
 Current Apple Genius and technical team leader with experience supporting customers, mentoring peers, documenting issues, and solving high-pressure technical problems.
