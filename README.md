@@ -28,8 +28,9 @@ I bring hands-on Apple troubleshooting experience, customer-facing technical lea
 - Jamf Certified Associate – Jamf Pro (Jamf 100)
 
 ## Featured Projects
-- Azure Active Directory Lab
-- Splunk Authentication Investigation Lab
+- Azure Active Directory Deployment Project
+- Splunk Authentication Investigation
+- Wireshark Network Investigation
 
 ## Background
 Current Apple Genius and technical team leader with experience supporting customers, mentoring peers, documenting issues, and solving high-pressure technical problems.
