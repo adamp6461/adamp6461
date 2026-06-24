@@ -28,7 +28,7 @@ I bring hands-on Apple troubleshooting experience, customer-facing technical lea
 - Jamf Certified Associate – Jamf Pro (Jamf 100)
 
 ## Featured Projects
-- Azure Active Directory
+- Azure Active Directory Lab
 - Splunk Authentication Investigation Lab
 
 ## Background
