@@ -30,6 +30,7 @@ I bring hands-on Apple troubleshooting experience, customer-facing technical lea
 
 ## Featured Projects
 - Azure Active Directory
+- Splunk Authentication Investigation Lab
 
 ## Background
 Current Apple Genius and technical team leader with experience supporting customers, mentoring peers, documenting issues, and solving high-pressure technical problems.
