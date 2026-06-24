@@ -10,7 +10,6 @@ I bring hands-on Apple troubleshooting experience, customer-facing technical lea
 
 ## Focus Areas
 - IT Support & Troubleshooting
-- macOS / iOS Support
 - Endpoint Management
 - Jamf Pro Fundamentals
 - Cybersecurity Foundations
