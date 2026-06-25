@@ -2,8 +2,6 @@
 
 # Adam Powell
 
-# Adam Powell
-
 Security+ certified IT professional transitioning from 9+ years of Apple technical leadership into SOC analysis and DFIR. Hands-on experience with SIEM investigation, network forensics, and Active Directory/cloud security through self-directed labs, backed by enterprise endpoint management and incident escalation experience at scale.
 
 ## Focus Areas
