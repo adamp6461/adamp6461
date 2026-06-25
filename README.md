@@ -2,21 +2,21 @@
 
 # Adam Powell
 
-IT Support | Endpoint Management | Cybersecurity
+# Adam Powell
 
-Technical Support Leader currently in IT Support, Endpoint Management, and Cybersecurity. Experienced in macOS troubleshooting, technical leadership, customer support, and security operations fundamentals.
-
-I bring hands-on Apple troubleshooting experience, customer-facing technical leadership, Security+ certification, and growing experience with endpoint tools, documentation, and security operations fundamentals.
+Security+ certified IT professional transitioning from 9+ years of Apple technical leadership into SOC analysis and DFIR. Hands-on experience with SIEM investigation, network forensics, and Active Directory/cloud security through self-directed labs, backed by enterprise endpoint management and incident escalation experience at scale.
 
 ## Focus Areas
-- IT Support & Troubleshooting
-- Endpoint Management
-- Jamf Pro Fundamentals
-- Cybersecurity Foundations
-- Incident Response Basics
-- Documentation & Process Improvement
+
+- Digital Forensics & Incident Response (DFIR)
+- SIEM Log Analysis & Threat Correlation
+- Network Traffic Analysis (Wireshark/PCAP)
+- Endpoint Management & Jamf Pro Administration
+- Active Directory & Cloud Security (Azure)
+- Technical Documentation & Process Improvement
 
 ## Experience
+
 - Apple Genius
 - Lead In-Store Service Experience (ISE)
 - 9+ years Apple Retail Technical Support
@@ -24,17 +24,22 @@ I bring hands-on Apple troubleshooting experience, customer-facing technical lea
 - Jamf Certified Associate
 
 ## Certifications
+
 - CompTIA Security+
 - Jamf Certified Associate – Jamf Pro (Jamf 100)
 
 ## Featured Projects
+
 - [Azure Active Directory Deployment Project](https://github.com/adamp6461/azure-activedirectory-lab)
 - [Splunk Authentication Investigation](https://github.com/adamp6461/splunk-authentication-investigation-lab)
 - [Wireshark Network Investigation](https://github.com/adamp6461/wireshark-network-investigation-lab)
 
 ## Background
-Current Apple Genius and technical team leader with experience supporting customers, mentoring peers, documenting issues, and solving high-pressure technical problems.
+
+9+ years diagnosing and resolving complex technical issues under high-pressure conditions at Apple, with a 6-month stint leading technician workflows and operations. Now applying that root-cause investigative mindset to DFIR, SIEM analysis, and network forensics through hands-on labs documented above.
 
 ## Connect
-- LinkedIn: www.linkedin.com/in/ap6461
-- Email: adamp6461@gmail.com
+
+- LinkedIn: [www.linkedin.com/in/ap6461](https://www.linkedin.com/in/ap6461)
+- Email: [adamp6461@gmail.com](mailto:adamp6461@gmail.com)
+
