@@ -31,6 +31,7 @@ Security+ certified IT professional transitioning from 9+ years of Apple technic
 - [Azure Active Directory Deployment Project](https://github.com/adamp6461/azure-activedirectory-lab)
 - [Splunk Authentication Investigation](https://github.com/adamp6461/splunk-authentication-investigation-lab)
 - [Wireshark Network Investigation](https://github.com/adamp6461/wireshark-network-investigation-lab)
+- [PowerShell Administration Toolkit](https://github.com/adamp6461/PowerShell-Administration-Toolkit)
 
 ## Background
 
