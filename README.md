@@ -36,5 +36,5 @@ I bring hands-on Apple troubleshooting experience, customer-facing technical lea
 Current Apple Genius and technical team leader with experience supporting customers, mentoring peers, documenting issues, and solving high-pressure technical problems.
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/ap6461
+- LinkedIn: www.linkedin.com/in/ap6461
 - Email: adamp6461@gmail.com
